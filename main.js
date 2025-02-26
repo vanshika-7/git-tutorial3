@@ -1,1 +1,1 @@
-console.log("main window");
+console.log("main window 2");
