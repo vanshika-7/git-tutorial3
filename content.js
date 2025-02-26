@@ -1,2 +1,2 @@
 console.log("content part 3");
-console.log("new feature 2");
+console.log("new feature 3");
